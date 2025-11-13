@@ -11,10 +11,11 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=none"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=none"/>
 
-### 🗄️ Database & ORM
+### 🗄️ Database  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=none"/>
 <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=none"/>
 <img src="https://img.shields.io/badge/QueryDSL-009DC7?style=flat-square&logo=none"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 
 ### ☁️ DevOps & Infra
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=none"/>
