@@ -7,27 +7,50 @@
 ## 🧱 Tech Stack
 
 ### 🖥️ Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="vertical-align:middle; margin-right:8px;"/>
+  <span>Java</span>
+</div>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" style="vertical-align:middle; margin-right:8px;"/>
+  <span>Spring Boot</span>
+</div>
 
 ### 🗄️ Database & ORM
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-<!-- Devicon에는 JPA / QueryDSL 전용 아이콘이 없어 텍스트로 표기 -->
-&nbsp;&nbsp;JPA  
-&nbsp;&nbsp;QueryDSL  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="vertical-align:middle; margin-right:8px;"/>
+  <span>MySQL</span>
+</div>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40" style="vertical-align:middle; margin-right:8px;"/>
+  <span>JPA</span>
+</div>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" style="vertical-align:middle; margin-right:8px;"/>
+  <span>QueryDSL</span>
+</div>
 
 ### ☁️ DevOps & Infra
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
-
-<br/>
-
-- AWS EC2, RDS 활용 경험  
-- GitHub Actions를 통한 CI/CD 구성 경험  
-- GCP 환경 사용 경험  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="vertical-align:middle; margin-right:8px;"/>
+  <span>Git</span>
+</div>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" style="vertical-align:middle; margin-right:8px;"/>
+  <span>Docker</span>
+</div>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" width="40" style="vertical-align:middle; margin-right:8px;"/>
+  <span>GitHub Actions</span>
+</div>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" style="vertical-align:middle; margin-right:8px;"/>
+  <span>AWS EC2 / RDS</span>
+</div>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" style="vertical-align:middle; margin-right:8px;"/>
+  <span>GCP</span>
+</div>
 
 </div>
 
