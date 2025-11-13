@@ -1,6 +1,6 @@
 <div>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontSize=100&text=Welcome%20to%20my%20GitHub!)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontSize=50&text=Welcome%20to%20my%20GitHub!)
   
 </div>
 
