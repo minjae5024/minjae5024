@@ -1,6 +1,6 @@
 <div>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlignY=40&color=gradient&fontSize=55&text=Junior Backend Engineer:baby:)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlignY=40&color=gradient&fontSize=55&text=Junior%20Backend%20Engineer%20%F0%9F%91%Bx)
   
 </div>
 <div>
