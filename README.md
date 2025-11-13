@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=none"/>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=none"/>
 
-## 📝 Certificates
+## 📝 Licenses and Certifications
 - 정보처리기사
 - 멀티미디어콘텐츠제작전문가
 - 네트워크관리사 2급
