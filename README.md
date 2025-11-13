@@ -4,24 +4,31 @@
   
 </div>
 <div>
-  ## 🧱 Tech Stack
-  
-  ### 🖥️ Backend
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-  
-  ### 🗄️ Database & ORM
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QueryDSL-009DC7?style=flat-square&logoColor=white"/>
-  
-  ### ☁️ DevOps & Infra
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
+## 🧱 Tech Stack
+
+### 🖥️ Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
+
+### 🗄️ Database & ORM
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+<!-- Devicon에는 JPA / QueryDSL 전용 아이콘이 없어 텍스트로 표기 -->
+&nbsp;&nbsp;JPA  
+&nbsp;&nbsp;QueryDSL  
+
+### ☁️ DevOps & Infra
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
+
+<br/>
+
+- AWS EC2, RDS 활용 경험  
+- GitHub Actions를 통한 CI/CD 구성 경험  
+- GCP 환경 사용 경험  
+
 </div>
 
 <!--
