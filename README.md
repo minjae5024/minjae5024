@@ -7,21 +7,20 @@
 ## 🧱 Tech Stack
 
 ### 🖥️ Backend
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=none"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=none"/>
 
 ### 🗄️ Database & ORM
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/QueryDSL-009DC7?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=none"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=none"/>
+<img src="https://img.shields.io/badge/QueryDSL-009DC7?style=flat-square&logo=none"/>
 
 ### ☁️ DevOps & Infra
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=none"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=none"/>
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=none"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=none"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=none"/>
 
 </div>
 
