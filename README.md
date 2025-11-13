@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하세요)
+<div>
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20GitHub!)
+</div>
 
 <!--
 **minjae5024/minjae5024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
